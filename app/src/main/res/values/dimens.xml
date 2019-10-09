@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ts">20sp</dimen>
+    <dimen name="lw1">300dp</dimen>
+    <dimen name="lw2">300dp</dimen>
+    <dimen name="lw3">300dp</dimen>
+    <dimen name="lw4">400dp</dimen>
+    <dimen name="lw5">300dp</dimen>
+    <dimen name="lw6">300dp</dimen>
+    <dimen name="lw7">300dp</dimen>
+    <dimen name="lw8">300dp</dimen>
+    <dimen name="lw9">300dp</dimen>
+    <dimen name="lw10">300dp</dimen>
+    <dimen name="mgt1">20dp</dimen>
+    <dimen name="mgt2">10dp</dimen>
+    <dimen name="mgt3">10dp</dimen>
+    <dimen name="mgt4">10dp</dimen>
+    <dimen name="mgt5">10dp</dimen>
+    <dimen name="mgt6">10dp</dimen>
+    <dimen name="mgt7">10dp</dimen>
+    <dimen name="mgt8">10dp</dimen>
+    <dimen name="mgt9">10dp</dimen>
+    <dimen name="mgt10">10dp</dimen>
+    <dimen name="mgt11">10dp</dimen>
+    <dimen name="ml">20dp</dimen>
+    <dimen name="ledt1">250dp</dimen>
+    <dimen name="ledt2">250dp</dimen>
+    <dimen name="ledt3">250dp</dimen>
+    <dimen name="ledt4">250dp</dimen>
+    <dimen name="ledt5">250dp</dimen>
+
+
+
+</resources>

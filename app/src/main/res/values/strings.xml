@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="question1">1. What is Deoxyribonucleic acid commonly referred to as? </string>
+    <string name="question2">2. What process involves treating rubber with sulfur to harden it? </string>
+    <string name="question3">3. Name two different organelles of a eukaryotic cell. </string>
+    <string name="question4">4. This word describes the force that pulls objects to the middle of the earth? </string>
+    <string name="question5"> 5 What type of trees yield the resin used to produce turpentine?  </string>
+    <string name="question6">6. Cumulus and Cirrus are types of what? </string>
+    <string name="question7"> 7. Which two planets have one or more moons?</string>
+    <string name="question8">8. Where in the human body would you find the scaphoid bone?</string>
+    <string name="question9">9. Which grow upwards Stalactites or Stalagmites? </string>
+    <string name="question10">10. What process involves heating an ore to obtain a metal? </string>
+    <string name="rbt_one_one"> RNA </string>
+    <string name="rbt_one_two"> CIA </string>
+    <string name="rbt_one_three"> DNA </string>
+    <string name="rbt_five_one"> Palm trees </string>
+    <string name="rbt_five_two"> Pine trees </string>
+    <string name="rbt_five_three"> Oak trees </string>
+    <string name="rbt_nine_one"> Stalactites </string>
+    <string name="rbt_nine_two"> Stalagmites </string>
+    <string name="three_one"> Ribosome </string>
+    <string name="three_two">Plasmids </string>
+    <string name="three_three"> Golgi apparatus </string>
+    <string name="three_four"> Diploid </string>
+    <string name="seven_one"> Ceres </string>
+    <string name="seven_two"> Mecury </string>
+    <string name="seven_three"> Earth </string>
+    <string name="seven_four"> Pluto </string>
+    <string name="btn"> SUBMIT ANSWER </string>
+    <string name="all_answer">Perfect!</string>
+    <string name="all_question">Try again </string>
+</resources>
